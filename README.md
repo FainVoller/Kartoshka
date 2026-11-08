@@ -6,3 +6,10 @@ npm install @pdftron/webviewer
 ```
 
 Скопировать папки core и ui из node_modules/@pdftron/webviewer в public/lib/webviewer
+
+# Что бы запустить 
+
+В терминале:
+```bush
+npm run dev
+```
